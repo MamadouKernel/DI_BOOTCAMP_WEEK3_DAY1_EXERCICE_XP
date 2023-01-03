@@ -1,0 +1,16 @@
+div {
+    background-color: lightblue;
+    padding: 20px;
+}  
+
+li:first-child {
+    display: none;
+}
+
+li:last-child {
+    border: 1px solid black;
+}
+
+body {
+    font-size: 20px;
+}  
